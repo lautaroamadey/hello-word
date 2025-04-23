@@ -1,2 +1,2 @@
-# hello-word
-Este repositorio es para practicar el flujo de GitHub
+soy de boca
+tengo 17 años
